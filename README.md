@@ -1,5 +1,7 @@
-# React JS App Template
+# React JS App
 
 
 
-Running `npm start` will display app on `localhost:3000/`
+- Run `npm start` to display app on `localhost:3000/`
+
+- Run `npm run build` when ready to build for production

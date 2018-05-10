@@ -6,7 +6,7 @@ import './index.css';
 function tick() {
   const element = (
     <div>
-      <h1>React JS Template</h1>
+      <h1>React JS App</h1>
       <h2>It is {new Date().toLocaleTimeString()}.</h2>
     </div>
 );

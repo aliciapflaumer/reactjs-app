@@ -1,6 +1,7 @@
 {
-  "name": "reactjs-template",
+  "name": "reactjs-app",
   "version": "1.0.0",
+  "homepage" : "http://aliciapflaumer.github.io/reactjs-app",
   "main": "src/index.js",
   "dependencies": {
     "botonic": "^0.1.12",
